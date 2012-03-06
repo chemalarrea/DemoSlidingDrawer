@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log
+END
+EventLogParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/EventLogParser.java
+END
+EventValueDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/EventValueDescription.java
+END
+InvalidValueTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/InvalidValueTypeException.java
+END
+EventContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/EventContainer.java
+END
+LogReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/LogReceiver.java
+END
+InvalidTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/InvalidTypeException.java
+END
+GcEventContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/log/GcEventContainer.java
+END

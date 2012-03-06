@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.RosterManagerPlugin</class>
+    <name>Roster Manager</name>
+    <description>Manage the user roster via HTTP</description>
+    <author>Alvaro Garcia</author>
+    <version>1.0</version>
+    <date>2010</date>
+    <minServerVersion>3.3.0</minServerVersion>
+    
+    <adminconsole>		
+        <tab id="tab-server">
+            <sidebar id="sidebar-server-settings">
+                <item id="roster-manager" name="Roster Manager" url="roster-manager.jsp"
+                     description="Manage the user roster via HTTP" />
+            </sidebar>
+        </tab>
+    </adminconsole>
+
+</plugin>

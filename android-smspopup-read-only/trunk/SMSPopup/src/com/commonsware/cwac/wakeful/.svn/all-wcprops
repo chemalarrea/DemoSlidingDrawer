@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/334/trunk/SMSPopup/src/com/commonsware/cwac/wakeful
+END
+AlarmReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/334/trunk/SMSPopup/src/com/commonsware/cwac/wakeful/AlarmReceiver.java
+END
+WakefulIntentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/334/trunk/SMSPopup/src/com/commonsware/cwac/wakeful/WakefulIntentService.java
+END

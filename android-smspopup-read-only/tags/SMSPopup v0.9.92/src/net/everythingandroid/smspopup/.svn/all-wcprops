@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup
+END
+ManageNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/ManageNotification.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/Log.java
+END
+SMSPopupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SMSPopupActivity.java
+END
+SmsMmsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SmsMmsMessage.java
+END
+ManageKeyguard.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/ManageKeyguard.java
+END
+ClearAllReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/ClearAllReceiver.java
+END
+SMSReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SMSReceiver.java
+END
+SMSPopupUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SMSPopupUtils.java
+END
+SMSReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SMSReceiverService.java
+END
+SMSPopupUtilsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SMSPopupUtilsService.java
+END
+ManageWakeLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/ManageWakeLock.java
+END
+SMSPopupConfigActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/SMSPopupConfigActivity.java
+END
+ReminderReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/ReminderReceiver.java
+END
+ReminderReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/48/tags/SMSPopup%20v0.9.92/src/net/everythingandroid/smspopup/ReminderReceiverService.java
+END

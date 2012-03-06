@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/350/trunk/SMSPopup/res/menu
+END
+config_contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/337/trunk/SMSPopup/res/menu/config_contact.xml
+END
+config_contacts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/337/trunk/SMSPopup/res/menu/config_contacts.xml
+END
+config_quickmessages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/337/trunk/SMSPopup/res/menu/config_quickmessages.xml
+END
+smspopup_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/350/trunk/SMSPopup/res/menu/smspopup_config.xml
+END

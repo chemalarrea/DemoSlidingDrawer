@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/341/trunk/SMSPopup/res/drawable-mdpi-v14
+END
+ic_contact_picture.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/337/trunk/SMSPopup/res/drawable-mdpi-v14/ic_contact_picture.png
+END
+stat_notify_sms.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/327/trunk/SMSPopup/res/drawable-mdpi-v14/stat_notify_sms.png
+END
+stat_notify_sms_failed.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/327/trunk/SMSPopup/res/drawable-mdpi-v14/stat_notify_sms_failed.png
+END

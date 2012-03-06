@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi
+END
+smspopup_icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/smspopup_icon.png
+END
+ic_contact_picture.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/ic_contact_picture.png
+END
+stat_notify_sms.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/stat_notify_sms.png
+END
+quickcontact_badge_overlay_pressed_dark.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/quickcontact_badge_overlay_pressed_dark.9.png
+END
+stat_notify_sms_failed.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/stat_notify_sms_failed.png
+END
+quickcontact_badge_overlay_focused_dark.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/quickcontact_badge_overlay_focused_dark.9.png
+END
+quickcontact_badge_overlay_normal_dark.9.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/343/trunk/SMSPopup/res/drawable-xhdpi/quickcontact_badge_overlay_normal_dark.9.png
+END

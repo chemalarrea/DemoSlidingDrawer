@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13/tags/SMSPopup%20v0.9.6/src/net/everythingandroid/smspopup/preferences
+END
+AppEnabledCheckBoxPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/13/tags/SMSPopup%20v0.9.6/src/net/everythingandroid/smspopup/preferences/AppEnabledCheckBoxPreference.java
+END
+CustomVibrateListPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/13/tags/SMSPopup%20v0.9.6/src/net/everythingandroid/smspopup/preferences/CustomVibrateListPreference.java
+END
+TestNotificationDialogPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/13/tags/SMSPopup%20v0.9.6/src/net/everythingandroid/smspopup/preferences/TestNotificationDialogPreference.java
+END
+DialogCheckBoxPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/13/tags/SMSPopup%20v0.9.6/src/net/everythingandroid/smspopup/preferences/DialogCheckBoxPreference.java
+END
+EmailDialogPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/13/tags/SMSPopup%20v0.9.6/src/net/everythingandroid/smspopup/preferences/EmailDialogPreference.java
+END

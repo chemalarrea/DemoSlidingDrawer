@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/348/trunk/SMSPopup/res/interpolator
+END
+decelerate_cubic.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/348/trunk/SMSPopup/res/interpolator/decelerate_cubic.xml
+END
+decelerate_quint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/348/trunk/SMSPopup/res/interpolator/decelerate_quint.xml
+END

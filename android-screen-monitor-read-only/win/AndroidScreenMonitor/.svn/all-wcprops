@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor
+END
+AndroidSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/AndroidSocket.h
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/stdafx.h
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/NOTICE
+END
+GdiPlusUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/GdiPlusUtil.cpp
+END
+AndroidScreenMonitor.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/AndroidScreenMonitor.vcproj
+END
+GdiPlusUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/GdiPlusUtil.h
+END
+AndroidScreenMonitor.rc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/AndroidScreenMonitor.rc
+END
+AndroidScreenMonitorDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/AndroidScreenMonitorDlg.cpp
+END
+ADBCDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/ADBCDlg.cpp
+END
+AndroidScreenMonitorDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/AndroidScreenMonitorDlg.h
+END
+ASM.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/ASM.h
+END
+ADBCDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/ADBCDlg.h
+END
+SelectDeviceDlg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/win/AndroidScreenMonitor/SelectDeviceDlg.cpp
+END
+AndroidScreenMonitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/AndroidScreenMonitor.cpp
+END
+AndroidSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/AndroidSocket.cpp
+END
+MODULE_LICENSE_APACHE2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/MODULE_LICENSE_APACHE2
+END
+ADBSDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/ADBSDialog.cpp
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/ReadMe.txt
+END
+SelectDeviceDlg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/win/AndroidScreenMonitor/SelectDeviceDlg.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/12/trunk/win/AndroidScreenMonitor/resource.h
+END
+AndroidScreenMonitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3/trunk/win/AndroidScreenMonitor/AndroidScreenMonitor.h
+END

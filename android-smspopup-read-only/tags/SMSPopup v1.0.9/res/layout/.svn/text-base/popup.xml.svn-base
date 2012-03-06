@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_height="fill_parent"
+  android:orientation="vertical"
+  android:minWidth="310dp"
+  android:id="@+id/MainLinearLayout"
+  android:layout_width="fill_parent">
+  <ViewStub
+    android:id="@+id/UnreadCountViewStub"
+    android:layout="@layout/popup_unreadcount"
+    android:layout_width="fill_parent"
+    android:layout_height="41dp" />
+  <include
+    layout="@layout/popup_header"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+  <include
+    layout="@layout/popup_divider" />
+  <ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="0dip"
+    android:id="@+id/MessageScrollView"
+    android:visibility="gone"
+    android:layout_weight="1"
+    android:paddingBottom="10dp"
+    android:paddingTop="6dp">
+    <TextView
+      android:text="Text here"
+      android:id="@+id/MessageTextView"
+      android:autoLink="all"
+      android:textAppearance="?android:attr/textAppearanceMedium"
+      android:textColor="?android:attr/textColorPrimaryDisableOnly"
+      android:layout_height="wrap_content"
+      android:layout_width="fill_parent"
+      android:gravity="center"
+      android:paddingRight="10dp"
+      android:paddingLeft="10dp" />
+  </ScrollView>
+  <ViewStub
+    android:id="@+id/MmsViewStub"
+    android:layout="@layout/popup_mms"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+  <ViewStub
+    android:id="@+id/PrivacyViewStub"
+    android:layout="@layout/popup_privacy"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" />
+  <LinearLayout
+    android:id="@+id/ButtonLinearLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="2dp"
+    android:background="@android:color/darker_gray">
+    <Button
+      android:id="@+id/button1"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:text="@string/button_close"
+      android:layout_width="fill_parent" />
+    <Button
+      android:id="@+id/button2"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:text="@string/button_delete"
+      android:layout_width="fill_parent" />
+    <Button
+      android:id="@+id/button3"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:text="@string/button_reply"
+      android:layout_width="fill_parent" />
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/351/trunk/SMSPopup/res/anim
+END
+grow_fade_in_center_high.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/351/trunk/SMSPopup/res/anim/grow_fade_in_center_high.xml
+END
+shrink_fade_out_center_high.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/351/trunk/SMSPopup/res/anim/shrink_fade_out_center_high.xml
+END
+grow_fade_in_center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/348/trunk/SMSPopup/res/anim/grow_fade_in_center.xml
+END
+shrink_fade_out_center.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/348/trunk/SMSPopup/res/anim/shrink_fade_out_center.xml
+END

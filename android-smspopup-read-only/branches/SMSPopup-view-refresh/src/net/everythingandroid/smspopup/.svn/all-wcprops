@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/297/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup
+END
+ManageNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ManageNotification.java
+END
+SmsPopupActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/297/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsPopupActivity.java
+END
+ClearAllReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ClearAllReceiver.java
+END
+ConfigPerContactActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ConfigPerContactActivity.java
+END
+SmsPopupUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/293/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsPopupUtils.java
+END
+SmsReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsReceiverService.java
+END
+SmsMessageSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsMessageSender.java
+END
+ManageWakeLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ManageWakeLock.java
+END
+ExternalEventReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ExternalEventReceiver.java
+END
+ManagePreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ManagePreferences.java
+END
+ReminderReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ReminderReceiverService.java
+END
+ConfigContactsActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ConfigContactsActivity.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/Log.java
+END
+SmsMmsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/289/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsMmsMessage.java
+END
+ManageKeyguard.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ManageKeyguard.java
+END
+Eula.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/Eula.java
+END
+SmsReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsReceiver.java
+END
+SmsPopupUtilsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsPopupUtilsService.java
+END
+SmsPopupConfigActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsPopupConfigActivity.java
+END
+ReminderReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ReminderReceiver.java
+END
+SmsMonitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsMonitorService.java
+END
+ConfigPresetMessagesActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/ConfigPresetMessagesActivity.java
+END
+SmsPopupDbAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/287/branches/SMSPopup-view-refresh/src/net/everythingandroid/smspopup/SmsPopupDbAdapter.java
+END

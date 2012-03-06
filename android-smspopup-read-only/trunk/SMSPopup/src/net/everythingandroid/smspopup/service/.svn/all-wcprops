@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/352/trunk/SMSPopup/src/net/everythingandroid/smspopup/service
+END
+ReminderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/352/trunk/SMSPopup/src/net/everythingandroid/smspopup/service/ReminderService.java
+END
+SmsPopupUtilsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/352/trunk/SMSPopup/src/net/everythingandroid/smspopup/service/SmsPopupUtilsService.java
+END
+SmsReceiverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/352/trunk/SMSPopup/src/net/everythingandroid/smspopup/service/SmsReceiverService.java
+END
+SmsMonitorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/334/trunk/SMSPopup/src/net/everythingandroid/smspopup/service/SmsMonitorService.java
+END

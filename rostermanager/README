@@ -1,0 +1,8 @@
+Para instalarlo:
+Hacerlo desde la interfaz web de openfire
+
+Para compilarlo:
+descargar el codigo fuente de openfire, descomprimir el codigo fuente en src/plugins y despues ir al directorio
+build y ejecutar "ant plugins"
+Luego en work/plugins esta el jar.
+Es necesario ant 1.7 o 1.6

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/351/trunk/SMSPopup/src/net/everythingandroid/smspopup/provider
+END
+SmsMmsMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/351/trunk/SMSPopup/src/net/everythingandroid/smspopup/provider/SmsMmsMessage.java
+END
+SmsPopupContract.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/337/trunk/SMSPopup/src/net/everythingandroid/smspopup/provider/SmsPopupContract.java
+END
+SmsPopupDatabase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/338/trunk/SMSPopup/src/net/everythingandroid/smspopup/provider/SmsPopupDatabase.java
+END
+SmsPopupContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/338/trunk/SMSPopup/src/net/everythingandroid/smspopup/provider/SmsPopupContentProvider.java
+END

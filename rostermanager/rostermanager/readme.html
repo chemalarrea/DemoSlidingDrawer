@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>User Service Plugin Readme</title>
+    <style type="text/css">
+        BODY {
+            font-size : 100%;
+        }
+        BODY, TD, TH {
+            font-family : tahoma, verdana, arial, helvetica, sans-serif;
+            font-size : 0.8em;
+        }
+        H2 {
+             font-size : 10pt;
+             font-weight : bold;
+        }
+        A:hover {
+            text-decoration : none;
+        }
+        H1 {
+            font-family : tahoma, arial, helvetica, sans-serif;
+            font-size : 1.4em;
+            font-weight: bold;
+            border-bottom : 1px #ccc solid;
+            padding-bottom : 2px;
+        }
+
+        TT {
+            font-family : courier new;
+            font-weight : bold;
+            color : #060;
+        }
+        PRE {
+            font-family : courier new;
+            font-size : 100%;
+        }
+        #datatable TH {
+            color : #fff;
+            background-color : #2A448C;
+            text-align : left;
+        }
+        #datatable TD {
+            background-color : #FAF6EF;
+        }
+        #datatable .name {
+            background-color : #DCE2F5;
+        }
+    </style>
+</head>
+<body>
+
+<h1>
+Roster Manager Plugin Readme
+</h1>
+
+<h2>Overview</h2>
+
+<p>
+Roster manager extends the user service plugin functionality. You can manage the roster (contact list) of the users.
+If you are using openfire in your web page (for example a social network) to allow your users to chat perhaps you
+need to add users to roster when two users accept friend request.
+It was the reason this plugin was made.
+The roster manager plugin is based on user service plugin, thank you Justin Hunt for make you plugin free!
+</p>
+
+<h2>Configuration</h2>
+
+Access to the service is restricted with a "secret" that can be viewed and set from the Roster User page in the Openfire admin console
+This should really only be considered weak security. The plugin was initially written with the assumption that http access to the Openfire service was
+only available to trusted machines. In the case of the plugin's author, a web application running on the same server as 
+Openfire makes the request.
+
+<h2>Using the Plugin</h2>
+
+To administer users, submit HTTP requests to the userservice service. 
+The service address is [hostname]plugins/rosterManager/rostermanager. For example,
+if your server name is "example.com", the URL is http://example.com/plugins/rosterManager/rostermanager<p>
+
+The following parameters can be passed into the request:<p>
+
+<div id="datatable">
+<table cellpadding="3" cellspacing="1" border="0" width="700">
+<tr>
+    <th colspan=2>Name</th><th>Description</th>
+</tr>
+<tr>
+    <td class="name">username</td><td>Required</td><td>The username of the 
+    roster list owner. If we want to modify the roster ot someone@example.com
+    the value of this parameter is "someone"</td>
+</tr>
+<tr>
+    <td class="name">secret</td><td>Required</td>
+    <td>The secret key that allows access to the User Service.</td>
+</tr>
+<tr>
+    <td class="name">jid</td><td>Required</td>
+    <td>The jid of the conctact you want to modify your subscription. For example
+    to remove (or add or modify) the subscription between someone@example.com and otherperson@example.com
+    the jid is "otherperson@example.com"</td>
+</tr>
+<tr>
+    <td class="name">sub</td><td>Required for add operation</td>
+    <td>Subscription type. The value can be none, both, from, to and remove.</td>
+</tr>
+<tr>
+    <td class="name">type</td><td>Requiredn</td>
+    <td>Action type, it can be create, remove or modify</td>
+</tr>
+
+
+</table><p>
+
+
+<p><b>Sample HTML</b><p>
+
+The following example add an user to roster.
+
+<ul>
+<form>
+<textarea cols=65 rows=3 wrap=virtual>
+http://example.com:9090/plugins/rosterUser/rosterUser?type=add&username=someone&secret=bigsecret&jid=myfriend@example.com
+</textarea>
+</form>
+</ul>
+
+The following example allow a user get presence of other user.
+
+<ul>
+<form>
+<textarea cols=65 rows=3 wrap=virtual>
+http://example.com:9090/plugins/rosterUser/rosterUser?type=modify&username=someone&secret=bigsecret&jid=myfriend@example.com&amp;sub=both
+</textarea>
+</form>
+</ul>
+
+The following example removes a user from the roster list
+
+<ul>
+<form>
+<textarea cols=65 rows=4 wrap=virtual>
+http://example.com:9090/plugins/rosterUser/rosterUser?type=remove&username=someone&secret=bigsecret&jid=myfriend@example.com
+</textarea>
+</form>
+</ul>
+
+Remember you should do this action reciprocal. First modify the "someone" roster and next the same for "myfriend" user.
+
+<br><br>
+
+
+<h2>Server Reply</h2>
+
+The server will reply to all User Service requests with an JSON result page. 
+If the request was processed successfully the return will be a "error" with a value "false"
+If the request was unsuccessful, the return will be an "error" with a value "true" beside a "message" with a text of one of the following error strings.
+<p>
+
+
+<div id="datatable">
+<table cellpadding="3" cellspacing="1" border="0" width="700">
+<tr>
+    <th >Error String</th><th>Description</th>
+</tr>
+<tr>
+    <td class="name">IllegalArgumentException</td>
+    <td>one of the parameters passed in to the User Service was bad (for example the subscription type)</td>
+</tr>
+<tr>
+    <td class="name">UserNotFoundException</td>
+    <td>No user of the name specified, for a delete or update operation, exists on this server.</td>
+</tr>
+<tr>
+    <td class="name">RequestNotAuthorised</td>
+    <td>The supplied secret does not match the secret specified in the Admin Console or the requester is not a valid IP address.</td>
+</tr>
+<tr>
+    <td class="name">UserServiceDisabled</td>
+    <td>The User Service is currently set to disabled in the Admin Console.</td>
+</tr>
+
+
+</table><p>
+
+
+</body>
+</html>

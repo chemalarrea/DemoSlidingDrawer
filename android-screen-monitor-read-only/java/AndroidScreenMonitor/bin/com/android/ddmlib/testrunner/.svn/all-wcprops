@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/testrunner
+END
+InstrumentationResultParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/testrunner/InstrumentationResultParser.java
+END
+TestIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/testrunner/TestIdentifier.java
+END
+ITestRunListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/testrunner/ITestRunListener.java
+END
+RemoteAndroidTestRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/testrunner/RemoteAndroidTestRunner.java
+END

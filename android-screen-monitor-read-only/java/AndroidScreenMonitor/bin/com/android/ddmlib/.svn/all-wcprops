@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib
+END
+Device.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/Device.java
+END
+HandleNativeHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleNativeHeap.java
+END
+HandleProfiling.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleProfiling.java
+END
+ChunkHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/ChunkHandler.java
+END
+DeviceMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/DeviceMonitor.java
+END
+ClientData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/ClientData.java
+END
+EmulatorConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/EmulatorConsole.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/Client.java
+END
+MonitorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/MonitorThread.java
+END
+HandleWait.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleWait.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/Log.java
+END
+HandleThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleThread.java
+END
+NativeStackCallInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/NativeStackCallInfo.java
+END
+Debugger.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/Debugger.java
+END
+DebugPortManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/DebugPortManager.java
+END
+MultiLineReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/MultiLineReceiver.java
+END
+HandleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleTest.java
+END
+RawImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/RawImage.java
+END
+HandleAppName.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleAppName.java
+END
+BadPacketException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/BadPacketException.java
+END
+HeapSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HeapSegment.java
+END
+DdmConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/DdmConstants.java
+END
+AllocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/AllocationInfo.java
+END
+AndroidDebugBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/AndroidDebugBridge.java
+END
+GetPropReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/GetPropReceiver.java
+END
+NativeAllocationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/NativeAllocationInfo.java
+END
+IDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/IDevice.java
+END
+IStackTraceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/IStackTraceInfo.java
+END
+HandleHello.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleHello.java
+END
+NullOutputReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/NullOutputReceiver.java
+END
+ThreadInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/ThreadInfo.java
+END
+NativeLibraryMapInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/NativeLibraryMapInfo.java
+END
+HandleExit.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleExit.java
+END
+AdbHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/AdbHelper.java
+END
+IShellOutputReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/IShellOutputReceiver.java
+END
+DdmPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/DdmPreferences.java
+END
+HandleHeap.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/HandleHeap.java
+END
+FileListingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/FileListingService.java
+END
+JdwpPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/JdwpPacket.java
+END
+SyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/16/trunk/java/AndroidScreenMonitor/src/com/android/ddmlib/SyncService.java
+END

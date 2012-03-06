@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 62
+*.settings
+assets
+bin
+releases
+smspopup.trace
+smspopup2.trace
+
+END

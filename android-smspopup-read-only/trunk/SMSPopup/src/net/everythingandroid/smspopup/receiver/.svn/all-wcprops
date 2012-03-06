@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/352/trunk/SMSPopup/src/net/everythingandroid/smspopup/receiver
+END
+ClearAllReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/333/trunk/SMSPopup/src/net/everythingandroid/smspopup/receiver/ClearAllReceiver.java
+END
+SmsReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/333/trunk/SMSPopup/src/net/everythingandroid/smspopup/receiver/SmsReceiver.java
+END
+ExternalEventReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/352/trunk/SMSPopup/src/net/everythingandroid/smspopup/receiver/ExternalEventReceiver.java
+END
+ReminderReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/334/trunk/SMSPopup/src/net/everythingandroid/smspopup/receiver/ReminderReceiver.java
+END
